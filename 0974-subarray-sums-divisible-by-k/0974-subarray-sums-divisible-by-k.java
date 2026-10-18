@@ -20,7 +20,6 @@ class Solution {
         map.put(0,1);
         int result = 0; 
         int sum = 0;
-        // int rem = 0;
         for(int i=0; i<n; i++){
             sum += nums[i];
             int rem = sum % k;
@@ -34,4 +33,6 @@ class Solution {
         }
         return result;
     }
+
+    // decrease runtime of leetcode then use of Array instead of HashMap 
 }
