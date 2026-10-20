@@ -20,7 +20,8 @@ class Solution {
         // }
         // return maxLen;
 
-
+        // similar question LC = 560
+        // TC = O(n) and SC = O(n);
         int n = nums.length;
         // for(int i=0; i<n; i++){
         //     if(nums[i] == 0){
@@ -32,6 +33,7 @@ class Solution {
         int maxLen = 0; 
         int currsum = 0; 
         for(int i=0; i<n; i++){
+            // jha zero wha -1 put kardo agar subarray sum karne par zero aa rha toh wo equal no of ones and zeros hai usme 
             currsum += (nums[i]==1)? 1 : -1;
             if(map.containsKey(currsum)){
                 maxLen = Math.max(maxLen, i-map.get(currsum));
