@@ -6,6 +6,7 @@ DSA Problem of LeetCode
 ## Array
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohdrashid1422/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -14,6 +15,7 @@ DSA Problem of LeetCode
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohdrashid1422/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -21,6 +23,7 @@ DSA Problem of LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohdrashid1422/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/1590-make-sum-divisible-by-p) |
