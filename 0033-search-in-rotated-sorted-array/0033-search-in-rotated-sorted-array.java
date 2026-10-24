@@ -15,13 +15,13 @@ class Solution {
             int mid = low + (high - low)/2;
             if(nums[mid] == target){
                 return mid;
-            }if(nums[low]<= nums[mid]){
+            }if(nums[low]<= nums[mid]){ // check first half is sorted 
                 if(nums[low]<= target && target <= nums[mid]){
-                    high = mid - 1;
+                    high = mid - 1; // remove second half, target in first half
                 }else{
-                    low = mid + 1;
+                    low = mid + 1; // remove first half, target is second half
                 }
-            }else{
+            }else{ // check second half is sorted
                 if(nums[mid]<= target && target <= nums[high]){
                     low = mid + 1;
                 }else{
