@@ -21,12 +21,12 @@ class Solution {
                 res = Math.min(res, nums[low]);
                 break; 
             }
-            if(nums[low] <= nums[mid]){
+            if(nums[low] <= nums[mid]){ // take out min value from first half 
                 min1 = Math.min(min1, nums[low]);
-                low = mid+1;
-            }else{
+                low = mid+1; // eliminate all element except 1st one which is min value 
+            }else{ // take out min value from second half 
                 min2 = Math.min(min2, nums[mid]);
-                high = mid - 1;
+                high = mid - 1; // eliminate all element except mid value which is min value in second half 
             }
             res = Math.min(res, Math.min(min1, min2));
         }
