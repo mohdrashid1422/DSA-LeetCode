@@ -47,4 +47,12 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
