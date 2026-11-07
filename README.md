@@ -62,5 +62,18 @@ DSA Problem of LeetCode
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
