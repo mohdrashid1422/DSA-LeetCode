@@ -1,32 +1,33 @@
 
 class Solution {
     public double myPow(double x, int n) {
-        if (n == 0) {
-            return 1.0;
-        }
+        // using library function 
+        // return Math.pow(x, n);
 
+
+        // double ans = 1;
+        // for(int i=1; i<=n; i++){
+        //     ans *= x;
+        // }
+        // return ans;
+        
+
+        if(n == 0){
+            return 1;
+        }
         long power = n;
-
-        if (power < 0) {
-            return 1.0 / myPowPositive(x, -power);
+        if(power < 0){
+            power = -power;
         }
+        double halfSq = myPow(x, (int)(power/2));
+        double halfSqvalue = halfSq * halfSq;
 
-        return myPowPositive(x, power);
-    }
-
-    private double myPowPositive(double x, long n) {
-        if (n == 0) {
-            return 1.0;
+        if(power%2 != 0){
+            halfSqvalue =  x * halfSqvalue;
         }
-
-        double half = myPowPositive(x, n / 2);
-
-        double result = half * half;
-
-        if (n % 2 == 1) {
-            result *= x;
+        if(n < 0){
+            return 1/ halfSqvalue;
         }
-
-        return result;
+        return halfSqvalue;
     }
 }
