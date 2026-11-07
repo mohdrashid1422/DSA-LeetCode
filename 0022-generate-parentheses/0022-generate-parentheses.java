@@ -54,6 +54,7 @@ class Solution {
         if(close < open){
             curr = curr + ")";
             solve(curr, n, open, close+1);
+            curr = curr.substring(0, curr.length() - 1);
         }
         
         
