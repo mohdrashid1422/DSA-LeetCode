@@ -10,6 +10,7 @@ DSA Problem of LeetCode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0525-contiguous-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0525-contiguous-array) |
@@ -74,6 +75,7 @@ DSA Problem of LeetCode
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -82,4 +84,5 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
