@@ -15,6 +15,7 @@ DSA Problem of LeetCode
 | [0090-subsets-ii](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0162-find-peak-element) |
+| [0455-assign-cookies](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohdrashid1422/DSA-/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -89,4 +91,16 @@ DSA Problem of LeetCode
 | ------- |
 | [0078-subsets](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0090-subsets-ii) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
