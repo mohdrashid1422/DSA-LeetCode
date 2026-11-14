@@ -24,6 +24,7 @@ DSA Problem of LeetCode
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/mohdrashid1422/DSA-/tree/master/1991-find-the-middle-index-in-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +40,7 @@ DSA Problem of LeetCode
 | [0560-subarray-sum-equals-k](https://github.com/mohdrashid1422/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0050-powx-n) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,8 +104,13 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
