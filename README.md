@@ -59,6 +59,7 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -113,4 +114,12 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
