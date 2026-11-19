@@ -62,6 +62,7 @@ DSA Problem of LeetCode
 | [0050-powx-n](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0258-add-digits) |
+| [2235-add-two-integers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
