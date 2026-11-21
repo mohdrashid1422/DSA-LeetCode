@@ -62,6 +62,7 @@ DSA Problem of LeetCode
 | [0050-powx-n](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
@@ -78,6 +79,7 @@ DSA Problem of LeetCode
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +123,7 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
