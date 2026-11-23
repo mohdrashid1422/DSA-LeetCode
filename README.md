@@ -63,6 +63,7 @@ DSA Problem of LeetCode
 | [0066-plus-one](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
