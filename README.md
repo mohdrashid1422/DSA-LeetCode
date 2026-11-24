@@ -64,12 +64,14 @@ DSA Problem of LeetCode
 | [0258-add-digits](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0728-self-dividing-numbers) |
 | [2235-add-two-integers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0509-fibonacci-number](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,4 +133,8 @@ DSA Problem of LeetCode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mohdrashid1422/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
